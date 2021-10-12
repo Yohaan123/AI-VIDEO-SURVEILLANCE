@@ -12,7 +12,7 @@ function setup(){
 }
 
 function draw(){
-    img(video,0,0,480,380);
+    image(video,0,0,480,380);
 }
 
 function start(){
